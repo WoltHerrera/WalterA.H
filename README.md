@@ -1,6 +1,5 @@
-# WalterA.H
 
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Walter 👋
 
 Aquí te cuento un poco sobre mí.
 
